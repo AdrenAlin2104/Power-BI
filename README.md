@@ -1,6 +1,8 @@
 # Проекты power bi
 ## Аналитика результатов АБ-теста с выгрузкой с обработкой в SQL
+### 1
 ![image](https://user-images.githubusercontent.com/101996154/188286181-ac60cd6c-ad06-4ab5-8a8f-40c29dbccf8e.png)
+### Подсказки, которые помогут сделать правильные выводы по данным
 ![1](https://user-images.githubusercontent.com/101996154/188286438-3d186043-15ce-4c7a-b2b0-391af705f8f7.png)
 
 ## Аналитика работы компании с выгрузкой данных из AmoCRM через MyBI
