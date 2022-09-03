@@ -1,4 +1,4 @@
-# Проекты power bi
+# Проекты Power BI
 ## Аналитика результатов АБ-теста с выгрузкой с обработкой в SQL
 ### Динамика по месяцам и доли затрат
 ![image](https://user-images.githubusercontent.com/101996154/188286181-ac60cd6c-ad06-4ab5-8a8f-40c29dbccf8e.png)
